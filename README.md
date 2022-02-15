@@ -11,4 +11,4 @@ FRAME RATE: 12 FPS
 TOTAL VIDEO DURATION: 1 Min
 
 SOFTWARES USED:
-Adobe After Effects 2020 , be Encoder 2020
+Adobe After Effects 2020 , Adobe Encoder 2020
